@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maged Abousekin</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A+ full stack +end+developer+from+Egypt;A+software+engineer!;A+competitve+programmer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+full stack +web+developer+from+Egypt;A+software+engineer!;A+competitve+programmer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MagedAhmedAbousekin" alt="MagedAhmedAbousekin" /></a> </p>
 
