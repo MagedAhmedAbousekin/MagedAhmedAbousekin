@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/magedabousekin/](https://www.linkedin.com/in/magedabousekin/)
 
-- 💬 Ask me about **html , css , bootstrap , javascript , jquery , react , c# , asp.net core , sql server database**
+- 💬 Ask me about **html , css , bootstrap , javascript , jquery , Angular , react , c# , Windows Forms , Web Forms , asp.net mvc , asp.net core , Web API , sql server database**
 
 - 📫 How to reach me **maged.abosekeen2018@gmail.com**
 
